@@ -11,3 +11,6 @@ Novel 小說: https://zh.wikisource.org/zh-hant/Wikisource:%E5%B0%8F%E8%AF%B4
 This include classical chinese novels up to the Qing dynasty
 
 
+license:
+available under a Creative Commons Attribution-ShareAlike 3.0 Unported license
+https://creativecommons.org/licenses/by-sa/3.0/
